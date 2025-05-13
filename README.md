@@ -10,7 +10,7 @@ An AI-powered conversational assistant designed for Barbeque Nation to automate 
 - 🧠 Conversational flow handling with Langchain agents
 - 🗂️ Document ingestion (PDF, DOCX) for dynamic KB building
 - 🔍 Intelligent prompt templates and query responses
-- ⚙️ Modular functions for future expansion (chatbot, post-call, API)
+- ⚙️ Modular functions for future expansion (chatbot, API)
 
 ---
 
