@@ -33,5 +33,4 @@ barbiqnation_chatbot/
 ├── prompts_templates/                     # Prompt templates for chatbot
 ├── knowledge_base/                        # Embedded documents (PDFs, DOCX)
 ├── barbiqnation_chatbot_v6.ipynb          # Main notebook with all logic
-├── requirements.txt                       # Required Python packages
 ├── README.md                              # Project documentation
