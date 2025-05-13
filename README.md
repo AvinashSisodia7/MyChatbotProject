@@ -1,6 +1,6 @@
 # 🤖 Barbeque Nation AI Conversational Chatbot
 
-An AI-powered conversational assistant designed for Barbeque Nation to automate customer interactions, handle FAQs, and extract insights from uploaded documents like PDFs and DOCX. Built using Langchain, OpenAI, ChromaDB, and other modern tools.
+An AI-powered conversational assistant designed for Barbeque Nation to automate customer interactions, handle FAQs, and extract insights from uploaded documents like PDFs and DOCX. Built using OpenAI, and other modern tools.
 
 ---
 
@@ -17,11 +17,8 @@ An AI-powered conversational assistant designed for Barbeque Nation to automate 
 ## 🛠️ Tech Stack
 
 - Python
-- Langchain
 - OpenAI GPT (ChatOpenAI, Embeddings)
-- ChromaDB (Vector store)
 - PyPDF & docx2txt (document parsing)
-- FastAPI (for API endpoints) *(if applicable)*
 - Jupyter Notebook (development & experimentation)
 
 ---
